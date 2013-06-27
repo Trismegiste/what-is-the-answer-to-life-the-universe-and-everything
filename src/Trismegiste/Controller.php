@@ -23,9 +23,8 @@ class Controller
 
         $choice = iterator_to_array($iter);
         shuffle($choice);
-        $choice = $choice[0]->getRelativePathname();
 
-        return $app->render($choice, array());
+        return $app->render($choice[0]->getRelativePathname());
     }
 
 }
