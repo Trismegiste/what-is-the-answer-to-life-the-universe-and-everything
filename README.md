@@ -39,7 +39,7 @@ Use HTML5 and CSS3 to make fancy animations, that's the challenge.
 
 Prefer mobile devices and last versions of modern browsers (Chrome, Firefox, IE >= 10 )
 
-[1]: http://kottke.org/08/02/single-serving-sites
+[1]: http://knowyourmeme.com/memes/subcultures/single-serving-site
 [42]: http://en.wikipedia.org/wiki/Douglas_Adams
 [2]: http://silex.sensiolabs.org/
 [3]: http://twig.sensiolabs.org/
