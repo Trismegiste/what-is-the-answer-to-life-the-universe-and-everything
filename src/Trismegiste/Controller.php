@@ -13,6 +13,13 @@ use Symfony\Component\Finder\Finder;
 class Controller
 {
 
+    /**
+     * The one and only route
+     * 
+     * @param \Symfony\Component\HttpFoundation\Request $request
+     * @param \Silex\Application $app
+     * @return Response
+     */
     public function home(Request $request, Application $app)
     {
         $fnd = new Finder();
